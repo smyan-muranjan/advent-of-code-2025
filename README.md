@@ -5,3 +5,5 @@
 |  2  |   ✅    |   ✅    | |
 |  3  |   ✅    |   ✅    | Part 2 can be optimized using 2D DP |
 | 4  |   ✅    |   ✅    | |
+| 5  |   ✅    |   ✅    | |
+| 6  |   ✅    |   ✅    | Part 2 done with Gemini |
