@@ -29,7 +29,7 @@ int partOne() {
         }
         res += curr_max;
     }
-
+    inputFile.close();
     return res;
 }
 
@@ -61,7 +61,7 @@ long partTwoDfs() {
     while (std::getline(inputFile, line)) {
         res += dfs("", line, 0);
     }
-    
+    inputFile.close();
     return res;
 }
 
