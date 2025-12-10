@@ -8,3 +8,4 @@
 | 5  |   ✅    |   ✅    | |
 | 6  |   ✅    |   ✅    | Part 2 done with Gemini |
 | 7  |   ✅    |   ✅    | Solved in Python b/c of upcoming interview, Part 2 can be optimized using 2D DP|
+| 8  |   ✅    |   ✅    | Solved in Python b/c of upcoming interview, learned Union-Find |
